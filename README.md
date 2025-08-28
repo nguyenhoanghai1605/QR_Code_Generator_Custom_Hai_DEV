@@ -1,4 +1,4 @@
-## QRCode Generator Custom:
+## QRCode Generator Custom
 
 <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/d06835e5-6cb8-4d57-bbe2-56089ce79e63" />
 <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/2a49a626-4a58-48d1-951e-446f6ab60c26" />
